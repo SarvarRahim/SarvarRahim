@@ -22,7 +22,7 @@
 
 ### Contact With Me
 
-![Email:raimjonov.sarvar.i@gmail.com](https://img.shields.io/badge/-nurmuhammaddeveloper@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![Email:raimjonov.sarvar.i@gmail.com](https://img.shields.io/badge/-raimjonov.sarvar.i@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/r_svrvar)
 
 
